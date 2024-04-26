@@ -1,44 +1,64 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Postdoctoral Fellow
-affiliation: Johns Hopkins University
-affiliation_link: https://cs.jhu.edu/
-affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
-email: yyliu (at) cs.jhu.edu
-email2: yliu538 (at) jhu.edu
+title: 张志民xxx
+position: 教授、博士生导师
+affiliation: 重庆大学 数学与统计学院
+affiliation_link: https://faculty.cqu.edu.cn/ZhiminZhang/zh_CN/index/311723/list/index.htm
+affiliation_logo: ./assets/img/spinion.svg
+email: zmzhang@cqu.edu.cn
+email2: cquzzm@163.com
+address: 重庆大学虎溪校区理科大楼D栋(邮编：401331)
+
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.cs.jhu.edu/~yyliu/
-description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
+keywords: Zhimin Zhang, Zhang Zhimin, zhimin zhang, zhang zhimin
+canonical: https://minimal-light-theme.yliu.me/
+description: 张志民是重庆大学数统学院的一位博士生导师，主要研究兴趣为金融统计、金融数学模型、风险管理与精算学、非参数统计、机器学习等。
 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
 
 # Links
-link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+cv_link: https://faculty.cqu.edu.cn/ZhiminZhang/zh_CN/index/311723/list/index.htm
+scopus_scholar: https://www.scopus.com/authid/detail.uri?authorId=35219373500
+#github_link: https://github.com/song-chen1/
+#linkedin: https://www.linkedin.com/in/song-chen-3449b9278/
+#twitter: 
+researchgate: https://www.researchgate.net/profile/Zhimin-Zhang-2
 
 # Images 
-avatar: https://img.yliu.me/avatar.jpg
-favicon: ./assets/img/favicon.png
+avatar: https://faculty.cqu.edu.cn/_resources/group1/M00/00/07/rBTYGWJeJfKACmiRAAHTC_fpArQ583.png?randomid=1712822936349
+# 主页图标
+favicon: https://faculty.cqu.edu.cn/_resources/group1/M00/00/07/rBTYGWJeJfKACmiRAAHTC_fpArQ583.png?randomid=1712822936349
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
-footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+#enable_footnote: false
+#footnote: Feel free to use my website's source code.
+#footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
+#clustrmaps_id: ${{ secrets.CLUSTRMAPS_ID }}
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+#google_analytics: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+remote_theme: yaoyao-liu/minimal-light
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
+
 
 # The following files will be removed from the generated website.
 exclude:
