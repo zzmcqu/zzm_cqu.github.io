@@ -53,13 +53,13 @@
 
 
 
-<h4 style="margin:0 10px 0;">2022</h4>
+<h4 id="2022;"style="margin:0 10px 0;">2022</h4>
 
 <ul>
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300322003253?via%3Dihub"><autocolor>Jiayi Xie, Zhenyu Cui, Zhimin Zhang. Some new infinite series expansions for the first passage time densities in a jump diffusion model with phase-type jumps. Applied Mathematics and Computation, 2022, 429: 127251.</autocolor></a></li>
 
-<li> <a href="javascript:toggle_vis('articlesmore')">Show more</a></li>
-<div id="articlesmore" style="display:none">
+<li> <a href="javascript:toggle_vis('2022more')">Show more</a></li>
+<div id="2022more" style="display:none">
 
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042722000012?via%3Dihub"><autocolor>Meiqiao Ai, Zhimin Zhang. Pricing some life-contingent lookback options under regime-switching Lévy models. Journal of Computational and Applied Mathematics, 2022, 407: 114082.</autocolor></a></li>
 
