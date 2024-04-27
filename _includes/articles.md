@@ -1,10 +1,10 @@
 <h1 id="articles"></h1>
 
-<h2 style="margin: 60px 0px -15px;">Articles
-<temp style="font-size:15px;">[</temp><a href="https://www-scopus-com-s.atrust.cqu.edu.cn/authid/detail.uri?authorId=35219373500#" target="_blank" style="font-size:10px;">Scopus</a><temp style="font-size:15px;">]</temp></h2>
+<h2 style="margin: 30px 0px -15px;">Articles
+<temp style="font-size:15px;">[</temp><a href="https://www-scopus-com-s.atrust.cqu.edu.cn/authid/detail.uri?authorId=35219373500#" target="_blank" style="font-size:15px;">Scopus</a><temp style="font-size:15px;">]</temp></h2>
 
 
-<h4 style="margin:15px 10px -10px;">2024</h4>
+<h4 id="2024;" style="margin:15px 10px -10px;">2024</h4>
 <ul>
   <li>Jiayi Xie, Ye Teng, Zhimin Zhang. Finite-time expected present value of operating costs until ruin in a bivariate risk model under periodic observation, <a href="https://link-springer-com-s.atrust.cqu.edu.cn/article/10.1007/s42081-024-00244-3"><autocolor>Japanese Journal of Statistics and Data Science, 2024, in press.</autocolor></a></li>
 
@@ -20,9 +20,9 @@
 </ul>
 
 
-<li> <a href="javascript:toggle_vis('articlesmore')">Show more</a> </li>
+<li> <a href="javascript:toggle_vis('2024more')">Show more</a> </li>
 
-<div id="articlesmore" style="display:none">
+<div id="2024more" style="display:none">
 
 <h4 id="2023;" style="margin:0 10px 0;">2023</h4>
 <ul>
@@ -38,7 +38,7 @@
 </ul>
 
 
-<li> <a href="javascript:toggle_vis('2023more')">Show more···</a> </li>
+<li > <a href="javascript:toggle_vis('2023more')">Show more···</a> </li>
 <div id="2023more" style="display:none">
 
 <ul>
@@ -52,13 +52,12 @@
 
 <li>Meiqiao Ai, Zhimin Zhang, Wenguang Yu. VALUING EQUITY-LINKED DEATH BENEFITS WITH A THRESHOLD EXPENSE STRUCTURE UNDER A REGIME-SWITCHING LEVY MODEL. <a href="https://www-scopus-com-s.atrust.cqu.edu.cn/record/display.uri?eid=2-s2.0-85141317880&origin=resultslist&sort=plf-f&src=s&sid=6ecfc0a5d527a41fa708b45a060a219c&sot=a&sdt=a&s=AU-ID%2835219373500%29+AND+PUBYEAR+IS+2023&sl=38&sessionSearchId=6ecfc0a5d527a41fa708b45a060a219c&relpos=9"><autocolor>Journal of Industrial and Management Optimization, 2023, 19(3).</autocolor></a></li>
 
-</div>
 </ul>
 
 
 
 <li> <a href="javascript:toggle_vis('articlesmore')">Show more</a></li>
-<div id="articlesmore" style="display:inline">
+<div id="articlesmore" style="display:none">
 
 <h4 style="margin:0 10px 0;">2022</h4>
 <ul>
@@ -72,5 +71,4 @@
 
 <li>Jiayi Xie, Zhimin Zhang. Recursive approximating to the finite-time Gerber–Shiu function in Lévy risk models under periodic observation. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042721003253?via%3Dihub"><autocolor>Journal of Computational and Applied Mathematics, 2022, 399: 113703.</autocolor></a></li>
 
-</div>
 </ul>
