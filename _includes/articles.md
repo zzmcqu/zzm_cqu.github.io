@@ -22,7 +22,7 @@
 
 <li> <a href="javascript:toggle_vis('articlesmore')">Show more</a> </li>
 
-<div id="articlesmore" style="display:none">
+<div id="articlesmore" style="display:inline">
 
 <h4 style="margin:0 10px 0;">2023</h4>
 <ul>
@@ -58,7 +58,7 @@
 
 
 <li> <a href="javascript:toggle_vis('articlesmore')">Show more</a> </li>
-<div id="articlesmore" style="display:none">
+<div id="articlesmore" style="display:inline">
 
 <h4 style="margin:0 10px 0;">2022</h4>
 <ul>
