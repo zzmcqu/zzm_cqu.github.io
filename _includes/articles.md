@@ -6,21 +6,18 @@
 
 <h4 id="2024;" style="margin:15px 10px 10px;">2024</h4>
 <ul>
-<li>Jiayi Xie, Ye Teng, Zhimin Zhang. Finite-time expected present value of operating costs until ruin in a bivariate risk model under periodic observation, <a href="https://link-springer-com-s.atrust.cqu.edu.cn/article/10.1007/s42081-024-00244-3"><autocolor>Japanese Journal of Statistics and Data Science, 2024, in press.</autocolor></a></li>
+<li><a href="https://link-springer-com-s.atrust.cqu.edu.cn/article/10.1007/s42081-024-00244-3"><autocolor>Jiayi Xie, Ye Teng, Zhimin Zhang. Finite-time expected present value of operating costs until ruin in a bivariate risk model under periodic observation. Japanese Journal of Statistics and Data Science, 2024, in press.</autocolor></a></li>
 
-<li>Xiaofei Wu, Hao Ming, Zhimin Zhang, Zhenyu Cui, Multi-block alternating direction method of multipliers for ultrahigh dimensional quantile fused regression. <a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0167947323002128?via%3Dihub"><autocolor>Computational Statistics & Data Analysis, 2024, 192: 107901.</autocolor></a></li>
+<li><a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0167947323002128?via%3Dihub"><autocolor>Xiaofei Wu, Hao Ming, Zhimin Zhang, Zhenyu Cui, Multi-block alternating direction method of multipliers for ultrahigh dimensional quantile fused regression. Computational Statistics & Data Analysis, 2024, 192: 107901.</autocolor></a></li>
 
-<li>Rongmei Liang, Xiaofei Wu, Zhimin Zhang. Linearized alternating direction method of multipliers for elastic-net support vector machines. <a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0031320323008312?via%3Dihub"><autocolor>Pattern Recognition, 2024, 148: 110134.</autocolor></a></li>
+<li><a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0031320323008312?via%3Dihub"><autocolor>Rongmei Liang, Xiaofei Wu, Zhimin Zhang. Linearized alternating direction method of multipliers for elastic-net support vector machines. Pattern Recognition, 2024, 148: 110134.</autocolor></a></li>
 
-<li>Wei Zhong, Benxuan Shi, Zhimin Zhang. Valuation of guaranteed minimum maturity benefits under mean reversion and jump models with surrender risk. <a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0377042723005903?via%3Dihub"><autocolor>Journal of Computational and Applied Mathematics, 2024, 440: 115646.</autocolor></a></li>
+<li><a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0377042723005903?via%3Dihub"><autocolor>Wei Zhong, Benxuan Shi, Zhimin Zhang. Valuation of guaranteed minimum maturity benefits under mean reversion and jump models with surrender risk. Journal of Computational and Applied Mathematics, 2024, 440: 115646.</autocolor></a></li>
 
-<li>Meiqiao Ai, Yunyun Wang, Zhimin Zhang, Dan Zhu. Valuation of variable annuities with guaranteed minimum maturity benefits and periodic fees. <a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2023.2241193"><autocolor>Scandinavian Actuarial Journal, 2024, 2024(3): 252-278.</autocolor></a></li>
+<li><a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2023.2241193"><autocolor>Meiqiao Ai, Yunyun Wang, Zhimin Zhang, Dan Zhu. Valuation of variable annuities with guaranteed minimum maturity benefits and periodic fees. Scandinavian Actuarial Journal, 2024, 2024(3): 252-278.</autocolor></a></li>
 
-<li>Jiayi Xie, Zhimin Zhang. Infinite series expansion of some finite-time dividend and ruin related functions. <a href="https://www.tandfonline.com/doi/abs/10.1080/03610926.2022.2076124"><autocolor>Communications in Statistics-Theory and Methods, 2024, 53(1): 201-214.</autocolor></a></li>
-
-<li> <a href="javascript:toggle_vis('articlesmore')">Show more</a> </li>
-<div id="articlesmore" style="display:none">
-
+<li><a href="https://www.tandfonline.com/doi/abs/10.1080/03610926.2022.2076124"><autocolor>Jiayi Xie, Zhimin Zhang. Infinite series expansion of some finite-time dividend and ruin related functions. Communications in Statistics-Theory and Methods, 2024, 53(1): 201-214.</autocolor></a></li>
+</ul>
 
 
 <h4 id="2023;" style="margin:0 10px 0;">2023</h4>
@@ -28,6 +25,9 @@
 <li>Ye Teng, Zhimin Zhang. On a time-changed Lévy risk model with capital injections and periodic observation.<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378475423002938"><autocolor>Mathematics and Computers in Simulation, 2023, 214: 290-314.</autocolor></a></li>
 
 <li>Ye Teng, Zhimin Zhang. Finite-time expected present value of operating costs until ruin in a Cox risk model with periodic observation. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300323002436"><autocolor>Applied Mathematics and Computation, 2023, 452: 128074.</autocolor></a></li>
+
+<li> <a href="javascript:toggle_vis('2024more')">Show more</a> </li>
+<div id="2024more" style="display:none">
 
 <li>Yang Yang, Jiayi Xie, Zhimin Zhang. Nonparametric estimation of some dividend problems in the perturbed compound Poisson model. <a href="https://www-cambridge-org-s.atrust.cqu.edu.cn/core/journals/probability-in-the-engineering-and-informational-sciences/article/nonparametric-estimation-of-some-dividend-problems-in-the-perturbed-compound-poisson-model/B29DB2B2B862822586CE0867F5758C20"><autocolor>Probability in the Engineering and Informational Sciences, 2023, 37(2):418-441.</autocolor></a></li>
 
@@ -48,15 +48,15 @@
 <li>Wei Zhong, Dan Zhu, Zhimin Zhang. Valuation of variable annuities under stochastic volatility and stochastic jump intensity. <a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2022.2144432"><autocolor>Scandinavian Actuarial Journal, 2023, 2023(7): 708-734.</autocolor></a></li>
 
 <li>Meiqiao Ai, Zhimin Zhang, Wenguang Yu. VALUING EQUITY-LINKED DEATH BENEFITS WITH A THRESHOLD EXPENSE STRUCTURE UNDER A REGIME-SWITCHING LEVY MODEL. <a href="https://www-scopus-com-s.atrust.cqu.edu.cn/record/display.uri?eid=2-s2.0-85141317880&origin=resultslist&sort=plf-f&src=s&sid=6ecfc0a5d527a41fa708b45a060a219c&sot=a&sdt=a&s=AU-ID%2835219373500%29+AND+PUBYEAR+IS+2023&sl=38&sessionSearchId=6ecfc0a5d527a41fa708b45a060a219c&relpos=9"><autocolor>Journal of Industrial and Management Optimization, 2023, 19(3).</autocolor></a></li>
-
-<li> <a href="javascript:toggle_vis('articlesmore')">Show more</a></li>
-<div id="articlesmore" style="display:none">
-
+</ul>
 
 
 <h4 style="margin:0 10px 0;">2022</h4>
 
 <li>Jiayi Xie, Zhenyu Cui, Zhimin Zhang. Some new infinite series expansions for the first passage time densities in a jump diffusion model with phase-type jumps. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300322003253?via%3Dihub"><autocolor>Applied Mathematics and Computation, 2022, 429: 127251.</autocolor></a></li>
+
+<li> <a href="javascript:toggle_vis('articlesmore')">Show more</a></li>
+<div id="articlesmore" style="display:none">
 
 <li>Meiqiao Ai, Zhimin Zhang. Pricing some life-contingent lookback options under regime-switching Lévy models. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042722000012?via%3Dihub"><autocolor>Journal of Computational and Applied Mathematics, 2022, 407: 114082.</autocolor></a></li>
 
