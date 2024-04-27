@@ -10,6 +10,8 @@ layout: homepage
 
 I am working in [the School of Mathematics and Statistics at the ChongQing University](https://sci.cqu.edu.cn/index.htm).I am currently a professor and doctoral supervisor of Chongqing University, a leader in academic technology in Chongqing, and a visiting scholar of University of Hong Kong and University of Melbourne. At present, I am the director of China Society of Industrial and Applied Mathematics, the Executive director of Risk Management and Actuarial Branch of China Field Statistics Research Society, and the director of Chongqing Statistical Society. 
 
+<strong style="color:#e74d3c; font-weight:600" data-sider-select-id="52561b63-1fb0-4e66-b4a1-c7a2d7b634cd">My current academic interests are mainly related to financial mathematical models, risk management and actuarial science, non-parametric statistics, variable annuity, etc. If you are interested, please feel free to contact me. I am also happy to present my research results at relevant seminars.</strong>
+
 ## Research Interest:
 
 - **<strong>金融数学、金融统计:</strong>** 主要研究内容包括金融期权定价，债券发行配比分析，最优投资组合与投资收益分析，信用风险管理等。
