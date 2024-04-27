@@ -24,7 +24,7 @@
 
 
 <h4 id="2023;" style="margin:0 10px 0;">2023</h4>
-<ul>
+
 <li>Ye Teng, Zhimin Zhang. On a time-changed Lévy risk model with capital injections and periodic observation.<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378475423002938"><autocolor>Mathematics and Computers in Simulation, 2023, 214: 290-314.</autocolor></a></li>
 
 <li>Ye Teng, Zhimin Zhang. Finite-time expected present value of operating costs until ruin in a Cox risk model with periodic observation. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300323002436"><autocolor>Applied Mathematics and Computation, 2023, 452: 128074.</autocolor></a></li>
@@ -51,11 +51,11 @@
 
 <li> <a href="javascript:toggle_vis('articlesmore')">Show more</a></li>
 <div id="articlesmore" style="display:none">
-</ul>
+
 
 
 <h4 style="margin:0 10px 0;">2022</h4>
-<ul>
+
 <li>Jiayi Xie, Zhenyu Cui, Zhimin Zhang. Some new infinite series expansions for the first passage time densities in a jump diffusion model with phase-type jumps. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300322003253?via%3Dihub"><autocolor>Applied Mathematics and Computation, 2022, 429: 127251.</autocolor></a></li>
 
 <li>Meiqiao Ai, Zhimin Zhang. Pricing some life-contingent lookback options under regime-switching Lévy models. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042722000012?via%3Dihub"><autocolor>Journal of Computational and Applied Mathematics, 2022, 407: 114082.</autocolor></a></li>
@@ -66,4 +66,5 @@
 
 <li>Jiayi Xie, Zhimin Zhang. Recursive approximating to the finite-time Gerber–Shiu function in Lévy risk models under periodic observation. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042721003253?via%3Dihub"><autocolor>Journal of Computational and Applied Mathematics, 2022, 399: 113703.</autocolor></a></li>
 
+</div>
 </ul>
