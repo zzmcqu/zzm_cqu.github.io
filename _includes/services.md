@@ -13,13 +13,13 @@
 <h4 style="margin:0 10px 0;">学术技术</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>重庆市学术技术带头人（统计学）</li>
-  <li>中国工业与应用数学学会金融数学、金融工程与精算保险专业委员会青年工作委员会副主任</li>
+  <li><autocolor>重庆市学术技术带头人（统计学）</autocolor></li>
+  <li><autocolor>中国工业与应用数学学会金融数学、金融工程与精算保险专业委员会青年工作委员会副主任</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">评审专家</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>国家自然基金委员会通讯评审专家</li>
-  <li>教育部学位中心论文通讯评审专家</li>
+  <li><autocolor>国家自然基金委员会通讯评审专家</autocolor></li>
+  <li><autocolor>教育部学位中心论文通讯评审专家</autocolor></li>
 </ul>
