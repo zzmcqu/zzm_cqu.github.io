@@ -35,7 +35,6 @@
 <li>Jiayi Xie, Wenguang Yu, Zhimin Zhang, Zhenyu Cui. Gerber-Shiu analysis in the compound Poisson model with constant inter-observation times. <a href="https://www-cambridge-org-s.atrust.cqu.edu.cn/core/journals/probability-in-the-engineering-and-informational-sciences/article/gerbershiu-analysis-in-the-compound-poisson-model-with-constant-interobservation-times/44597BF1D4FA4892D0E7897D6DD0E693"><autocolor>Probability in the Engineering and Informational Sciences, 2023, 37(2):324-356.</autocolor></a></li>
 
 <li>Wei Zhong, Zhenyu Cui, Zhimin Zhang. Efficient valuation of guaranteed minimum maturity benefits in regime switching jump diffusion models with surrender risk. <a href="https://www.sciencedirect.com/science/article/abs/pii/S037704272200512X"><autocolor>Journal of Computational and Applied Mathematics, 2023, 422: 114914.</autocolor></a></li>
-</div>
 </ul>
 
 
