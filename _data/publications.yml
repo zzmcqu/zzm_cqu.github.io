@@ -30,13 +30,14 @@ main:
     notes: GMMB、Continuous-time Markov chain
 
   - title: Asymptotics for credit portfolio losses due to defaults in a multi-sector model
-    authors: <strong>Zhimin Zhang</strong>, Yingying Li, Bernt Schiele, and Qianru Sun
+    authors: Shaoying Chen, Yang Yang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>, <strong>Zhimin Zhang</strong><br>(<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: Ann Oper Res
     conference: Annals of Operations Research<strong>(Ann Oper Res)</strong>, 2024.
     pdf: https://link.springer.com/article/10.1007/s10479-024-05934-5
     HTML: https://link.springer.com/article/10.1007/s10479-024-05934-5
     bibtex: https://usercontent.cljtscd.com/scholar.bib?q=info:Us_Z87mw36kJ:scholar.google.com/&output=citation&scisdr=ClEshsOnGAA:AFWwaeYAAAAAZizzlJy-8Qu1BFLEn14dhpBb8AA&scisig=AFWwaeYAAAAAZizzlKgU6OT6zNBAPEHqEH47VHg&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/article_APR_asymptotics credit protfolio.png
+    notes: Multi-sector model、Multivariate regular variation
   
   
   

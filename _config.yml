@@ -3,7 +3,7 @@ title: 张志民
 position: 教授、博士生导师
 affiliation: 重庆大学 数学与统计学院
 affiliation_link: https://faculty.cqu.edu.cn/ZhiminZhang/zh_CN/index/311723/list/index.htm
-#affiliation_logo: ./assets/img/spinion.svg
+affiliation_logo: https://sci.cqu.edu.cn/xwz/images/logo.png
 email: zmzhang@cqu.edu.cn
 email2: cquzzm@163.com
 address: 重庆大学虎溪校区理科大楼D栋(邮编：401331)
@@ -15,7 +15,7 @@ canonical: https://minimal-light-theme.yliu.me/
 description: 张志民是重庆大学数统学院的一位博士生导师，主要研究兴趣为金融统计、金融数学模型、风险管理与精算学、非参数统计、机器学习等。
 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: false
+enable_hopkins_logo: True
 
 # The option is used to show the last update time.
 enable_last_update: false
