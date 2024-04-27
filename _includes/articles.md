@@ -20,6 +20,7 @@
 <li><a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2023.2241193"><autocolor>Meiqiao Ai, Yunyun Wang, Zhimin Zhang, Dan Zhu. Valuation of variable annuities with guaranteed minimum maturity benefits and periodic fees. Scandinavian Actuarial Journal, 2024, 2024(3): 252-278.</autocolor></a></li>
 
 <li><a href="https://www.tandfonline.com/doi/abs/10.1080/03610926.2022.2076124"><autocolor>Jiayi Xie, Zhimin Zhang. Infinite series expansion of some finite-time dividend and ruin related functions. Communications in Statistics-Theory and Methods, 2024, 53(1): 201-214.</autocolor></a></li>
+</div>
 </ul>
 
 
