@@ -39,7 +39,7 @@ main:
     image: ./assets/img/article_APR_asymptotics credit protfolio.png
     notes: Multi-sector model、Multivariate regular variation
   
-  
+
   
   # 模板 
   #- title: Prompt-Based Exemplar Super-Compression and Regeneration for Class-Incremental Learning
