@@ -49,7 +49,7 @@
 
 <li><a href="https://www-scopus-com-s.atrust.cqu.edu.cn/record/display.uri?eid=2-s2.0-85141317880&origin=resultslist&sort=plf-f&src=s&sid=6ecfc0a5d527a41fa708b45a060a219c&sot=a&sdt=a&s=AU-ID%2835219373500%29+AND+PUBYEAR+IS+2023&sl=38&sessionSearchId=6ecfc0a5d527a41fa708b45a060a219c&relpos=9"><autocolor>Meiqiao Ai, Zhimin Zhang, Wenguang Yu. VALUING EQUITY-LINKED DEATH BENEFITS WITH A THRESHOLD EXPENSE STRUCTURE UNDER A REGIME-SWITCHING LEVY MODEL. Journal of Industrial and Management Optimization, 2023, 19(3).</autocolor></a></li>
 </div>
-</ul>
+
 
 
 
