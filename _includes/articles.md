@@ -21,50 +21,51 @@
 
 
 <h4 id="2023;" style="margin:0 10px 0;">2023</h4>
+<ul>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0378475423002938"><autocolor>Ye Teng, Zhimin Zhang. On a time-changed Lévy risk model with capital injections and periodic observation.Mathematics and Computers in Simulation, 2023, 214: 290-314.</autocolor></a></li>
 
-<li>Ye Teng, Zhimin Zhang. On a time-changed Lévy risk model with capital injections and periodic observation.<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378475423002938"><autocolor>Mathematics and Computers in Simulation, 2023, 214: 290-314.</autocolor></a></li>
-
-<li>Ye Teng, Zhimin Zhang. Finite-time expected present value of operating costs until ruin in a Cox risk model with periodic observation. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300323002436"><autocolor>Applied Mathematics and Computation, 2023, 452: 128074.</autocolor></a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300323002436"><autocolor>Ye Teng, Zhimin Zhang. Finite-time expected present value of operating costs until ruin in a Cox risk model with periodic observation. Applied Mathematics and Computation, 2023, 452: 128074.</autocolor></a></li>
 
 <li> <a href="javascript:toggle_vis('2024more')">Show more</a> </li>
 <div id="2024more" style="display:none">
 
-<li>Yang Yang, Jiayi Xie, Zhimin Zhang. Nonparametric estimation of some dividend problems in the perturbed compound Poisson model. <a href="https://www-cambridge-org-s.atrust.cqu.edu.cn/core/journals/probability-in-the-engineering-and-informational-sciences/article/nonparametric-estimation-of-some-dividend-problems-in-the-perturbed-compound-poisson-model/B29DB2B2B862822586CE0867F5758C20"><autocolor>Probability in the Engineering and Informational Sciences, 2023, 37(2):418-441.</autocolor></a></li>
+<li><a href="https://www-cambridge-org-s.atrust.cqu.edu.cn/core/journals/probability-in-the-engineering-and-informational-sciences/article/nonparametric-estimation-of-some-dividend-problems-in-the-perturbed-compound-poisson-model/B29DB2B2B862822586CE0867F5758C20"><autocolor>Yang Yang, Jiayi Xie, Zhimin Zhang. Nonparametric estimation of some dividend problems in the perturbed compound Poisson model. Probability in the Engineering and Informational Sciences, 2023, 37(2):418-441.</autocolor></a></li>
 
-<li>Jiayi Xie, Wenguang Yu, Zhimin Zhang, Zhenyu Cui. Gerber-Shiu analysis in the compound Poisson model with constant inter-observation times. <a href="https://www-cambridge-org-s.atrust.cqu.edu.cn/core/journals/probability-in-the-engineering-and-informational-sciences/article/gerbershiu-analysis-in-the-compound-poisson-model-with-constant-interobservation-times/44597BF1D4FA4892D0E7897D6DD0E693"><autocolor>Probability in the Engineering and Informational Sciences, 2023, 37(2):324-356.</autocolor></a></li>
+<li><a href="https://www-cambridge-org-s.atrust.cqu.edu.cn/core/journals/probability-in-the-engineering-and-informational-sciences/article/gerbershiu-analysis-in-the-compound-poisson-model-with-constant-interobservation-times/44597BF1D4FA4892D0E7897D6DD0E693"><autocolor>Jiayi Xie, Wenguang Yu, Zhimin Zhang, Zhenyu Cui. Gerber-Shiu analysis in the compound Poisson model with constant inter-observation times. Probability in the Engineering and Informational Sciences, 2023, 37(2):324-356.</autocolor></a></li>
 
-<li>Wei Zhong, Zhenyu Cui, Zhimin Zhang. Efficient valuation of guaranteed minimum maturity benefits in regime switching jump diffusion models with surrender risk. <a href="https://www.sciencedirect.com/science/article/abs/pii/S037704272200512X"><autocolor>Journal of Computational and Applied Mathematics, 2023, 422: 114914.</autocolor></a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S037704272200512X"><autocolor>Wei Zhong, Zhenyu Cui, Zhimin Zhang. Efficient valuation of guaranteed minimum maturity benefits in regime switching jump diffusion models with surrender risk. Journal of Computational and Applied Mathematics, 2023, 422: 114914.</autocolor></a></li>
 
 <li > <a href="javascript:toggle_vis('2023more')">Show more</a> </li>
 <div id="2023more" style="display:none">
 
 
-<li>Meiqiao Ai, Zhimin Zhang, Wei Zhong. Valuation of a DB underpin hybrid pension under a regime-switching Lévy model. <a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0377042722003715?via%3Dihub"><autocolor>Journal of Computational and Applied Mathematics, 2023, 419: 114736.</autocolor></a></li>
+<li><a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0377042722003715?via%3Dihub"><autocolor>Meiqiao Ai, Zhimin Zhang, Wei Zhong. Valuation of a DB underpin hybrid pension under a regime-switching Lévy model. Journal of Computational and Applied Mathematics, 2023, 419: 114736.</autocolor></a></li>
 
-<li>Wenyuan Wang, Zhimin Zhang, Zhuo Jin. TAX OPTIMIZATION WITH A TERMINAL VALUE FOR THE LÉVY RISK PROCESSES. <a href="https://www.researchgate.net/publication/364915397_Tax_optimization_with_a_terminal_value_for_the_Levy_risk_processes"><autocolor>Journal of Industrial and Management Optimization, 2023, 19(8).</autocolor></a></li>
+<li><a href="https://www.researchgate.net/publication/364915397_Tax_optimization_with_a_terminal_value_for_the_Levy_risk_processes"><autocolor>Wenyuan Wang, Zhimin Zhang, Zhuo Jin. TAX OPTIMIZATION WITH A TERMINAL VALUE FOR THE LÉVY RISK PROCESSES. Journal of Industrial and Management Optimization, 2023, 19(8).</autocolor></a></li>
 
-<li>Meiqiao Ai, Zhimin Zhang, Dan Zhu. Valuing variable annuities with path-dependent surrender guarantees under regime-switching Lévy models. <a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2022.2099296"><autocolor>Scandinavian Actuarial Journal, 2023, 2023(4): 330-358.</autocolor></a></li>
+<li><a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2022.2099296"><autocolor>Meiqiao Ai, Zhimin Zhang, Dan Zhu. Valuing variable annuities with path-dependent surrender guarantees under regime-switching Lévy models. Scandinavian Actuarial Journal, 2023, 2023(4): 330-358.</autocolor></a></li>
 
-<li>Wei Zhong, Dan Zhu, Zhimin Zhang. Valuation of variable annuities under stochastic volatility and stochastic jump intensity. <a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2022.2144432"><autocolor>Scandinavian Actuarial Journal, 2023, 2023(7): 708-734.</autocolor></a></li>
+<li><a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2022.2144432"><autocolor>Wei Zhong, Dan Zhu, Zhimin Zhang. Valuation of variable annuities under stochastic volatility and stochastic jump intensity. Scandinavian Actuarial Journal, 2023, 2023(7): 708-734.</autocolor></a></li>
 
-<li>Meiqiao Ai, Zhimin Zhang, Wenguang Yu. VALUING EQUITY-LINKED DEATH BENEFITS WITH A THRESHOLD EXPENSE STRUCTURE UNDER A REGIME-SWITCHING LEVY MODEL. <a href="https://www-scopus-com-s.atrust.cqu.edu.cn/record/display.uri?eid=2-s2.0-85141317880&origin=resultslist&sort=plf-f&src=s&sid=6ecfc0a5d527a41fa708b45a060a219c&sot=a&sdt=a&s=AU-ID%2835219373500%29+AND+PUBYEAR+IS+2023&sl=38&sessionSearchId=6ecfc0a5d527a41fa708b45a060a219c&relpos=9"><autocolor>Journal of Industrial and Management Optimization, 2023, 19(3).</autocolor></a></li>
+<li><a href="https://www-scopus-com-s.atrust.cqu.edu.cn/record/display.uri?eid=2-s2.0-85141317880&origin=resultslist&sort=plf-f&src=s&sid=6ecfc0a5d527a41fa708b45a060a219c&sot=a&sdt=a&s=AU-ID%2835219373500%29+AND+PUBYEAR+IS+2023&sl=38&sessionSearchId=6ecfc0a5d527a41fa708b45a060a219c&relpos=9"><autocolor>Meiqiao Ai, Zhimin Zhang, Wenguang Yu. VALUING EQUITY-LINKED DEATH BENEFITS WITH A THRESHOLD EXPENSE STRUCTURE UNDER A REGIME-SWITCHING LEVY MODEL. Journal of Industrial and Management Optimization, 2023, 19(3).</autocolor></a></li>
 </ul>
 
 
 <h4 style="margin:0 10px 0;">2022</h4>
 
-<li>Jiayi Xie, Zhenyu Cui, Zhimin Zhang. Some new infinite series expansions for the first passage time densities in a jump diffusion model with phase-type jumps. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300322003253?via%3Dihub"><autocolor>Applied Mathematics and Computation, 2022, 429: 127251.</autocolor></a></li>
+<ul>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300322003253?via%3Dihub"><autocolor>Jiayi Xie, Zhenyu Cui, Zhimin Zhang. Some new infinite series expansions for the first passage time densities in a jump diffusion model with phase-type jumps. Applied Mathematics and Computation, 2022, 429: 127251.</autocolor></a></li>
 
 <li> <a href="javascript:toggle_vis('articlesmore')">Show more</a></li>
 <div id="articlesmore" style="display:none">
 
-<li>Meiqiao Ai, Zhimin Zhang. Pricing some life-contingent lookback options under regime-switching Lévy models. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042722000012?via%3Dihub"><autocolor>Journal of Computational and Applied Mathematics, 2022, 407: 114082.</autocolor></a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042722000012?via%3Dihub"><autocolor>Meiqiao Ai, Zhimin Zhang. Pricing some life-contingent lookback options under regime-switching Lévy models. Journal of Computational and Applied Mathematics, 2022, 407: 114082.</autocolor></a></li>
 
-<li>Wenyuan Wang, Xie, Jiayi Xie, Zhimin Zhang. Estimating the time value of ruin in a Lévy risk model under low-frequency observation. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167668722000269?via%3Dihub"><autocolor>Insurance: Mathematics and Economics, 2022, 104: 133-157.</autocolor></a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167668722000269?via%3Dihub"><autocolor>Wenyuan Wang, Xie, Jiayi Xie, Zhimin Zhang. Estimating the time value of ruin in a Lévy risk model under low-frequency observation. Insurance: Mathematics and Economics, 2022, 104: 133-157.</autocolor></a></li>
 
-<li>Meiqiao Ai, Zhimin Zhang, Wenguang Yu. FIRST PASSAGE PROBLEMS OF REFRACTED JUMP DIFFUSION PROCESSES AND THEIR APPLICATIONS IN VALUING EQUITY-LINKED DEATH BENEFITS. <a href="https://www.aimsciences.org/article/doi/10.3934/jimo.2021039"><autocolor>Journal of Industrial and Management Optimization, 2022, 18(3).</autocolor></a></li>
+<li><a href="https://www.aimsciences.org/article/doi/10.3934/jimo.2021039"><autocolor>Meiqiao Ai, Zhimin Zhang, Wenguang Yu. FIRST PASSAGE PROBLEMS OF REFRACTED JUMP DIFFUSION PROCESSES AND THEIR APPLICATIONS IN VALUING EQUITY-LINKED DEATH BENEFITS. Journal of Industrial and Management Optimization, 2022, 18(3).</autocolor></a></li>
 
-<li>Jiayi Xie, Zhimin Zhang. Recursive approximating to the finite-time Gerber–Shiu function in Lévy risk models under periodic observation. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042721003253?via%3Dihub"><autocolor>Journal of Computational and Applied Mathematics, 2022, 399: 113703.</autocolor></a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042721003253?via%3Dihub"><autocolor>Jiayi Xie, Zhimin Zhang. Recursive approximating to the finite-time Gerber–Shiu function in Lévy risk models under periodic observation. Journal of Computational and Applied Mathematics, 2022, 399: 113703.</autocolor></a></li>
 
 </div>
 </ul>
