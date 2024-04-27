@@ -1,7 +1,7 @@
 main:
 
   - title: Valuation of Guaranteed Lifelong Withdrawal Benefit with Long-term Care Option
-    authors: Yang Yang, Shaoying Chen, Zhenyu Cui, <strong>Zhimin Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong><br>(<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    authors: Yang Yang, Shaoying Chen, Zhenyu Cui, <strong>Zhimin Zhang <sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong><br>(<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
     conference_short: Preprint
     conference: Preprint.<strong>(DOI:10.13140/RG.2.2.33388.17283)</strong>
     pdf: https://www.researchgate.net/publication/379574094_Valuation_of_Guaranteed_Lifelong_Withdrawal_Benefit_with_Long-term_Care_Option
@@ -12,17 +12,17 @@ main:
 
   - title: Valuation of variable annuities under stochastic volatility and stochastic jump intensity
     authors: Zhong Wei, Dan Zhu, <strong>Zhimin Zhang<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong><br>(<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
-    conference_short: SAJ
-    conference: Scandinavian Actuarial Journal <strong>(SAJ)</strong>, 2023.
+    conference_short: SCAND ACTUAR J
+    conference: Scandinavian Actuarial Journal <strong>(SCAND ACTUAR J)</strong>, 2023.
     pdf: https://www.tandfonline.com/doi/epdf/10.1080/03461238.2022.2144432?needAccess=true
     Tables: https://www.tandfonline.com/doi/figure/10.1080/03461238.2022.2144432?scroll=top&needAccess=true
     image: https://www.tandfonline.com/cms/asset/077a1af0-19b2-4be8-b9d9-8d3f805b2e46/sact_a_2144432_f0001_oc.jpg
     notes: GMBs、ProJ
 
   - title: Efficient valuation of guaranteed minimum maturity benefits in regime switching jump diffusion models with surrender risk
-    authors: Xiaofei Wu, Jiancheng Jiang, <strong>Zhimin Zhang</strong>
-    conference_short: SAJ
-    conference: Scandinavian Actuarial Journal <strong>(SAJ)</strong>, 2023.
+    authors: Zhong Wei, Zhenyu Cui, <strong>Zhimin Zhang <sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong><br>(<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding author)
+    conference_short: J COMPUT APPL MATH
+    conference: Journal of Computational and Applied Mathematics <strong>(J COMPUT APPL MATH)</strong>, 2023.
     pdf: https://pdf.sciencedirectassets.com/271610/1-s2.0-S0377042722X00174/1-s2.0-S037704272200512X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQD%2BK%2BS5cL1ReEN7VXyunI%2FlKhVYz6cf%2BQ42sjmGSIv13AIhAKYoQY%2Bn02lTBMjp64F6BNpkBkL4%2F%2B5J1nbt2QmZVl%2F9KrwFCNT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1Igxu4HsNZ87KHcyTcCcqkAVnTKVzaChPGMifETcpF%2FfS%2FWagH2njie4I53%2FQ6pTAB4tRpVra5lrsTqxND8g%2BpeZhaaBe18SNxYfgPDs%2FCT2SiQ1zgrI7ePPnlgc0WxEoaX72JNz0nd3ULTpkzPv5btADWr%2FIuuG87DpRK2L5%2F5z2MgwSHgrOGofUh1w1SbKGvA0M4Dhz5gbd3ftj3mpb8isWNqcc6DP9WAZhge9XcZaq4h%2FTvZyZhzqhK6RQA1A1aMiXoU7EEsm7AEJHqWwqP24jPJeUfN4NHXUfaQoDoK42KfxO3yKUWG%2FyfkGJuoys4iy9jEsF119KoSzN7P5qvPTnrFEAopC2XDoZl6mVF2HOx%2B7jODkZjs951yxlAWqP%2BeELOq0%2B1ev9FrU1rNZS%2FzeAT8uB%2BoZU2BKvNp0kTQ5vSSqZi4KOoE26If71tc5Ynoom83381sOJeIwBuv2%2B3XpK51DZCZKLN%2BJQMMliLJhA2KzfRQjtCQpfFYuPZXOLfGq7tHvngD%2BrH45YTX3GqtYi3qM3yYanjZIZ0jj10VMExET22Qd%2F1VmytpZm8YBSyntunIRPRTHaL3yd6p4gHgDQjZSjZm%2Bhauogbwjy8sRwlc6b18uxhLV4QEDaq8XoafSLnCCw%2BNPq1zuA7r5P7yXHrweWQnI3ij%2FWZhZ7zAqeYMF9Z6j1EqSxSdf4hFp81PEb2G6l1WPuh316jC%2FhLBZ%2BTquemGnlBfITcIRWb4oph4bIPp22KMAxt%2F5f8hUpGdCiIgfwnhuKsEvfmocuqnKkOmdPcCo0R7Mv52iEQkLsIfXKGK2CTLw3jZXdu1%2B9gj%2BL56Fkw6ZIgWh0Wg77O4hSQEwkmr8tdH7TYHGb%2FrXO8dKAHfBQfA71XTPZtvtXdjDorrOxBjqwAfa81pWOpBTk0IoRjRWY2XR05ezMmiF7SL6sAr3juaLV4Djm090pmxIHIz4kYKtCjPrvE2kjf1ADSSCroL6Xhq9rM5%2B47xJ4sJj7oti2RHEAAsz2PV9Wj1qMoR2Hfv7VCgV491bdjclb3jpv9Ck8OYFDZaAMVObz2X7RuB3J%2F5KxojyWEQ08WX4aIMK7Gq6i30L%2BtroQJTMu6YMBdmSfe4SdndzzpyfKJyvcjyN2apJh&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240427T121109Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYZFXDXAGB%2F20240427%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d0addbfaec30369f0c430484894f22c30b29319a548b214e116f7d8aff04a7c5&hash=21f4b704c8ab79075012b2371daa173f260fda73d734f5d8fe3b7a4973557299&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S037704272200512X&tid=spdf-2d6af287-9d1e-484e-8c5c-67213fc5893b&sid=816335661a3af14b3299eae5f3f6dd2bbda1gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=060c5d590f0b0257&rr=87aeb6aa38c5515e&cc=hk&kca=eyJrZXkiOiJRRktwWERQaEpzdzU3Z3VCM3JmM0xPeHZESThldW13M0t0RHpuR1o1dDJmdWttaHNUUTVqcUYrOHNFbTliODgvZUZ6QmZtbkllaFFoekpmalVLcnBOUVVyZ0lBVDhnN0NoT2Iwc0w4bzZsVVA1OS9jVGgySWZnVjBxSHp0cGlpR0E2M0R6TjZYWlQvWGJ4Z0hPdks2NW9QN1g5VmphL1BkRFZmbmxFYzhmTExjNnpxQiIsIml2IjoiYTIyNGY5NGMxMDk3NzcwMmY3YmU2Nzg1NmVkNWM1YmMifQ==_1714219881852
     HTML: https://www.sciencedirect.com/science/article/pii/S037704272200512X
     bibtex: https://usercontent.cljtscd.com/scholar.bib?q=info:udAjQi6c-5EJ:scholar.google.com/&output=citation&scisdr=ClGvb80cGAA:AFWwaeYAAAAAZiztZfpPvKKbceS-t-uX1WBIocM&scisig=AFWwaeYAAAAAZiztZRZtFEFSpCC0wslHTK2OcRI&scisf=4&ct=citation&cd=-1&hl=zh-CN

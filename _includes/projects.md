@@ -1,41 +1,41 @@
-<h1 id="projects"></h1>
+<h1 id="news"></h1>
 
 <h2 style="margin: 30px 0px 10px;">Projects</h2>
 
 <h4 style="margin:0 10px 0;">社会经济项目</h4>
 
 <ul>
-<li><strong>①[重庆市统计局]</strong><span style="color:#e74d3c">重庆市各区县人口老龄化空间分布特征研究——基于第七次人口普查的数据.</span>(2021.12 - 2022.08)</li>
+<li><strong>①[重庆市统计局]</strong>重庆市各区县人口老龄化空间分布特征研究——基于第七次人口普查的数据.(2021.12 - 2022.08)</li>
 
-<li><strong>②[重庆市统计局]</strong><span style="color:#e74d3c">重庆地区城镇化发展对未来人口变化趋势影响及相关对策研究.</span>(2021.12 - 2022.08)</li>
+<li><strong>②[重庆市统计局]</strong>重庆地区城镇化发展对未来人口变化趋势影响及相关对策研究.(2021.12 - 2022.08)</li>
 
-<li><strong>③[中国工商银行重庆分行]</strong><span style="color:#e74d3c">重庆市地方债券发行策略分析.</span>(2017)</li>
+<li><strong>③[中国工商银行重庆分行]</strong>重庆市地方债券发行策略分析.(2017)</li>
 </ul>
 
 
 <h4 style="margin:0 10px 0;">科学研究项目</h4>
 
 <ul>
-<li><strong>①[国家自然科学基金面上项目]</strong><span style="color:#e74d3c">勒维过程在寿险与非寿险产品定价和风险管理应用中的若干问题研究.</span>(2021.01 - 2025.12)</li>
+<li><strong>①[国家自然科学基金面上项目]</strong>勒维过程在寿险与非寿险产品定价和风险管理应用中的若干问题研究.(2021.01 - 2025.12)</li>
 
-<li><strong>②[国家自然科学基金面上项目]</strong><span style="color:#e74d3c">极端波动与传染市场环境中投资连结型寿险产品的若干问题研究.</span>(2019.01 - 2022.12)</li>
+<li><strong>②[国家自然科学基金面上项目]</strong>极端波动与传染市场环境中投资连结型寿险产品的若干问题研究.(2019.01 - 2022.12)</li>
 
-<li><strong>③[国家自然科学地区科学基金项目]</strong><span style="color:#e74d3c">风险度量理论在金融保险领域的应用中的两个问题研究.</span>(2017.01 - 2020.12)</li>
+<li><strong>③[国家自然科学地区科学基金项目]</strong>风险度量理论在金融保险领域的应用中的两个问题研究.(2017.01 - 2020.12)</li>
 
-<li><strong>④[国家自然科学基金面上项目]</strong><span style="color:#e74d3c">风险理论中若干问题的阶段观测建模、数值计算与非参数估计.</span>(2015.01 - 2018.12)</li>
+<li><strong>④[国家自然科学基金面上项目]</strong>风险理论中若干问题的阶段观测建模、数值计算与非参数估计.(2015.01 - 2018.12)</li>
 
 
 
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none">
 
-<li><strong>⑤[重庆市科技计划项目基础与前沿研究计划一般项目]</strong><span style="color:#e74d3c">风险理论中的阶段观测建模方法与风险分析.</span>(2014.08 - 2017.06)</li>
+<li><strong>⑤[重庆市科技计划项目基础与前沿研究计划一般项目]</strong>风险理论中的阶段观测建模方法与风险分析.(2014.08 - 2017.06)</li>
 
-<li><strong>⑥[国家自然科学基金面上项目]</strong><span style="color:#e74d3c">基于模型选择和Piman准则的约束有偏估计及算法研究与应用.</span>(2012.01 - 2015.12)</li>
+<li><strong>⑥[国家自然科学基金面上项目]</strong>基于模型选择和Piman准则的约束有偏估计及算法研究与应用.(2012.01 - 2015.12)</li>
 
-<li><strong>⑦[高等学校博士学科点专项科研基金项目]</strong><span style="color:#e74d3c">考虑随机分红策略的风险模型中破产问题的研究.</span>(2012.01 - 2014.12)</li>
+<li><strong>⑦[高等学校博士学科点专项科研基金项目]</strong>考虑随机分红策略的风险模型中破产问题的研究.(2012.01 - 2014.12)</li>
 
-<li><strong>⑧[中央高校基本科研项目]</strong><span style="color:#e74d3c">复杂环境中的寿险产品定价与风险管理.</span>(2012.01 - 2014.12)</li>
+<li><strong>⑧[中央高校基本科研项目]</strong>复杂环境中的寿险产品定价与风险管理.(2012.01 - 2014.12)</li>
 
 
 </div>
