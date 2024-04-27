@@ -19,12 +19,13 @@
 <li>Jiayi Xie, Zhimin Zhang. Infinite series expansion of some finite-time dividend and ruin related functions. <a href="https://www.tandfonline.com/doi/abs/10.1080/03610926.2022.2076124"><autocolor>Communications in Statistics-Theory and Methods, 2024, 53(1): 201-214.</autocolor></a></li>
 
 <li> <a href="javascript:toggle_vis('2024more')">Show more</a> </li>
-
 <div id="2024more" style="display:none">
 
+</ul>
+
+
 <h4 id="2023;" style="margin:0 10px 0;">2023</h4>
-
-
+<ul>
 <li>Ye Teng, Zhimin Zhang. On a time-changed Lévy risk model with capital injections and periodic observation.<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378475423002938"><autocolor>Mathematics and Computers in Simulation, 2023, 214: 290-314.</autocolor></a></li>
 
 <li>Ye Teng, Zhimin Zhang. Finite-time expected present value of operating costs until ruin in a Cox risk model with periodic observation. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300323002436"><autocolor>Applied Mathematics and Computation, 2023, 452: 128074.</autocolor></a></li>
@@ -35,10 +36,9 @@
 
 <li>Wei Zhong, Zhenyu Cui, Zhimin Zhang. Efficient valuation of guaranteed minimum maturity benefits in regime switching jump diffusion models with surrender risk. <a href="https://www.sciencedirect.com/science/article/abs/pii/S037704272200512X"><autocolor>Journal of Computational and Applied Mathematics, 2023, 422: 114914.</autocolor></a></li>
 
-
 <li > <a href="javascript:toggle_vis('2023more')">Show more</a> </li>
 <div id="2023more" style="display:none">
-
+</ul>
 
 <li>Meiqiao Ai, Zhimin Zhang, Wei Zhong. Valuation of a DB underpin hybrid pension under a regime-switching Lévy model. <a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0377042722003715?via%3Dihub"><autocolor>Journal of Computational and Applied Mathematics, 2023, 419: 114736.</autocolor></a></li>
 
@@ -50,13 +50,13 @@
 
 <li>Meiqiao Ai, Zhimin Zhang, Wenguang Yu. VALUING EQUITY-LINKED DEATH BENEFITS WITH A THRESHOLD EXPENSE STRUCTURE UNDER A REGIME-SWITCHING LEVY MODEL. <a href="https://www-scopus-com-s.atrust.cqu.edu.cn/record/display.uri?eid=2-s2.0-85141317880&origin=resultslist&sort=plf-f&src=s&sid=6ecfc0a5d527a41fa708b45a060a219c&sot=a&sdt=a&s=AU-ID%2835219373500%29+AND+PUBYEAR+IS+2023&sl=38&sessionSearchId=6ecfc0a5d527a41fa708b45a060a219c&relpos=9"><autocolor>Journal of Industrial and Management Optimization, 2023, 19(3).</autocolor></a></li>
 
-
-
 <li> <a href="javascript:toggle_vis('articlesmore')">Show more</a></li>
 <div id="articlesmore" style="display:none">
+</ul>
+
 
 <h4 style="margin:0 10px 0;">2022</h4>
-
+<ul>
 <li>Jiayi Xie, Zhenyu Cui, Zhimin Zhang. Some new infinite series expansions for the first passage time densities in a jump diffusion model with phase-type jumps. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300322003253?via%3Dihub"><autocolor>Applied Mathematics and Computation, 2022, 429: 127251.</autocolor></a></li>
 
 <li>Meiqiao Ai, Zhimin Zhang. Pricing some life-contingent lookback options under regime-switching Lévy models. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042722000012?via%3Dihub"><autocolor>Journal of Computational and Applied Mathematics, 2022, 407: 114082.</autocolor></a></li>
