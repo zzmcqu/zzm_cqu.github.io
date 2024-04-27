@@ -5,9 +5,9 @@
 <h4 style="margin:0 10px 0;">学会理事</h4>
 
 <ul style="margin:0 0 5px;">
-  <li style="height: 24px;">中国工业与应用数学学会理事</li>
-  <li style="height: 24px;">中国优选法统筹法与经济数学研究会量化金融与保险分会理事</li>
-  <li style="height: 24px;">中国现场统计研究会风险管理与精算分会常务理事 2021-2023</li>
+  <li><autocolor>中国工业与应用数学学会理事</autocolor></li>
+  <li><autocolor>中国优选法统筹法与经济数学研究会量化金融与保险分会理事</autocolor></li>
+  <li><autocolor>中国现场统计研究会风险管理与精算分会常务理事 2021-2023</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">学术技术</h4>
