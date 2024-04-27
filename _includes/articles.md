@@ -18,8 +18,8 @@
 
 <li>Jiayi Xie, Zhimin Zhang. Infinite series expansion of some finite-time dividend and ruin related functions. <a href="https://www.tandfonline.com/doi/abs/10.1080/03610926.2022.2076124"><autocolor>Communications in Statistics-Theory and Methods, 2024, 53(1): 201-214.</autocolor></a></li>
 
-<li> <a href="javascript:toggle_vis('2024more')">Show more</a> </li>
-<div id="2024more" style="display:none">
+<li> <a href="javascript:toggle_vis('articlesmore')">Show more</a> </li>
+<div id="articlesmore" style="display:none">
 
 
 
