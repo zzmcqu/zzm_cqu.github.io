@@ -4,7 +4,7 @@
 <temp style="font-size:10px;">[</temp><a href="https://www-scopus-com-s.atrust.cqu.edu.cn/authid/detail.uri?authorId=35219373500#" target="_blank" style="font-size:10px;">Scopus</a><temp style="font-size:10px;">]</temp></h2>
 
 
-<h4 style="margin:0 10px 0;">2024</h4>
+<h4 style="margin:10px 10px 0;">2024</h4>
 <ul>
   <li>Jiayi Xie, Ye Teng, Zhimin Zhang. Finite-time expected present value of operating costs until ruin in a bivariate risk model under periodic observation, <a href="https://link-springer-com-s.atrust.cqu.edu.cn/article/10.1007/s42081-024-00244-3"><autocolor>Japanese Journal of Statistics and Data Science, 2024, in press.</autocolor></a></li>
 
