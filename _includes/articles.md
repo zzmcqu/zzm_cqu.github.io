@@ -21,7 +21,6 @@
 <li> <a href="javascript:toggle_vis('2024more')">Show more</a> </li>
 <div id="2024more" style="display:none">
 
-</ul>
 
 
 <h4 id="2023;" style="margin:0 10px 0;">2023</h4>
