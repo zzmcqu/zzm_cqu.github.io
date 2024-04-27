@@ -38,7 +38,7 @@
 
 <li > <a href="javascript:toggle_vis('2023more')">Show more</a> </li>
 <div id="2023more" style="display:none">
-</ul>
+
 
 <li>Meiqiao Ai, Zhimin Zhang, Wei Zhong. Valuation of a DB underpin hybrid pension under a regime-switching Lévy model. <a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0377042722003715?via%3Dihub"><autocolor>Journal of Computational and Applied Mathematics, 2023, 419: 114736.</autocolor></a></li>
 
