@@ -53,7 +53,7 @@
 
 
 
-<h4 id="2022;"style="margin:0 10px 0;">2022</h4>
+<h4 id="2022;" style="margin:0 10px 0;">2022</h4>
 
 <ul>
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300322003253?via%3Dihub"><autocolor>Jiayi Xie, Zhenyu Cui, Zhimin Zhang. Some new infinite series expansions for the first passage time densities in a jump diffusion model with phase-type jumps. Applied Mathematics and Computation, 2022, 429: 127251.</autocolor></a></li>
