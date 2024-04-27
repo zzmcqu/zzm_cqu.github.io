@@ -30,12 +30,19 @@ I am working in [the School of Mathematics and Statistics at the ChongQing Unive
 - **[香港大学统计与精算学系，访问学者]** 2010.03 - 2010.06，2011.05 - 2011.09，2012.08 - 2012.09，2013.02，2013.08 - 2014.08，2015.06 - 2015.08, 2016.02.
 - **[墨尔本大学经济系，访问学者]** 2016.08.
 
+## Monograph
+- **[2019 科学出版社]** (英)大卫·迪克森(David C. M. Dickson)著，李栓明，张志民译.
+    <br><strong>《保险风险与破产》(ISBN:978-7-03-060608-2)</strong>
+
+
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/projects.md %}
+
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/contact.md %}
-
 {% include_relative _includes/students.md %}
+
+{% include_relative _includes/contact.md %}

@@ -1,6 +1,9 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 60px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://www-scopus-com-s.atrust.cqu.edu.cn/authid/detail.uri?authorId=35219373500#" target="_blank" style="font-size:15px;">Scopus</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Zhimin-Zhang-2" target="_blank" style="font-size:15px;">Research Gate</a><temp style="font-size:15px;">]</temp></h2>
+<h2 style="margin: 60px 0px -15px;">Publications 
+<temp style="font-size:15px;">[</temp><a href="https://www-scopus-com-s.atrust.cqu.edu.cn/authid/detail.uri?authorId=35219373500#" target="_blank" style="font-size:15px;">Scopus</a><temp style="font-size:15px;">]</temp>
+<temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Zhimin-Zhang-2" target="_blank" style="font-size:15px;">Research Gate-1</a><temp style="font-size:15px;">]</temp>
+<temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/scientific-contributions/Zhimin-Zhang-2266595476" target="_blank" style="font-size:15px;">Research Gate-2</a><temp style="font-size:15px;">]</temp></h2>
 
 
 <div class="publications">
@@ -78,7 +81,6 @@
 </div>
 </li>
 
-</ol>
 </div>
 
 
