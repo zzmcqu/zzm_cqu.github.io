@@ -16,6 +16,7 @@ main:
     conference: Scandinavian Actuarial Journal <strong>(SCAND ACTUAR J)</strong>, 2023.
     pdf: https://www.tandfonline.com/doi/epdf/10.1080/03461238.2022.2144432?needAccess=true
     Tables: https://www.tandfonline.com/doi/figure/10.1080/03461238.2022.2144432?scroll=top&needAccess=true
+    bibtex: https://usercontent.cljtscd.com/scholar.bib?q=info:Zlz-3hl5fUUJ:scholar.google.com/&output=citation&scisdr=ClHYgzVLGAA:AFWwaeYAAAAAZi0kVL3unMrV5isx7HdcgxZ3zsg&scisig=AFWwaeYAAAAAZi0kVNpfVE21eV2hmZwf-2NrVLI&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: https://www.tandfonline.com/cms/asset/077a1af0-19b2-4be8-b9d9-8d3f805b2e46/sact_a_2144432_f0001_oc.jpg
     notes: GMBs、ProJ
 
@@ -39,7 +40,6 @@ main:
     image: ./assets/img/article_APR_asymptotics credit protfolio.png
     notes: Multi-sector model、Multivariate regular variation
   
-
   
   # 模板 
   #- title: Prompt-Based Exemplar Super-Compression and Regeneration for Class-Incremental Learning
