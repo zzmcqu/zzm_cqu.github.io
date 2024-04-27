@@ -10,6 +10,9 @@
 
 <li><a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0167947323002128?via%3Dihub"><autocolor>Xiaofei Wu, Hao Ming, Zhimin Zhang, Zhenyu Cui, Multi-block alternating direction method of multipliers for ultrahigh dimensional quantile fused regression. Computational Statistics & Data Analysis, 2024, 192: 107901.</autocolor></a></li>
 
+<li> <a href="javascript:toggle_vis('2024more')">Show more</a> </li>
+<div id="2024more" style="display:none">
+
 <li><a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0031320323008312?via%3Dihub"><autocolor>Rongmei Liang, Xiaofei Wu, Zhimin Zhang. Linearized alternating direction method of multipliers for elastic-net support vector machines. Pattern Recognition, 2024, 148: 110134.</autocolor></a></li>
 
 <li><a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0377042723005903?via%3Dihub"><autocolor>Wei Zhong, Benxuan Shi, Zhimin Zhang. Valuation of guaranteed minimum maturity benefits under mean reversion and jump models with surrender risk. Journal of Computational and Applied Mathematics, 2024, 440: 115646.</autocolor></a></li>
@@ -26,8 +29,8 @@
 
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300323002436"><autocolor>Ye Teng, Zhimin Zhang. Finite-time expected present value of operating costs until ruin in a Cox risk model with periodic observation. Applied Mathematics and Computation, 2023, 452: 128074.</autocolor></a></li>
 
-<li> <a href="javascript:toggle_vis('2024more')">Show more</a> </li>
-<div id="2024more" style="display:none">
+<li> <a href="javascript:toggle_vis('2023more')">Show more</a> </li>
+<div id="2023more" style="display:none">
 
 <li><a href="https://www-cambridge-org-s.atrust.cqu.edu.cn/core/journals/probability-in-the-engineering-and-informational-sciences/article/nonparametric-estimation-of-some-dividend-problems-in-the-perturbed-compound-poisson-model/B29DB2B2B862822586CE0867F5758C20"><autocolor>Yang Yang, Jiayi Xie, Zhimin Zhang. Nonparametric estimation of some dividend problems in the perturbed compound Poisson model. Probability in the Engineering and Informational Sciences, 2023, 37(2):418-441.</autocolor></a></li>
 
@@ -48,15 +51,13 @@
 </ul>
 
 
-
-
-<h4 style="margin:0 10px 0;">2022</h4>
+<h4 id="2022" style="margin:0 10px 0;">2022</h4>
 
 <ul>
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300322003253?via%3Dihub"><autocolor>Jiayi Xie, Zhenyu Cui, Zhimin Zhang. Some new infinite series expansions for the first passage time densities in a jump diffusion model with phase-type jumps. Applied Mathematics and Computation, 2022, 429: 127251.</autocolor></a></li>
 
-<li> <a href="javascript:toggle_vis('2023more')">Show more</a></li>
-<div id="2023more" style="display:none">
+<li> <a href="javascript:toggle_vis('2022more')">Show more</a></li>
+<div id="2022more" style="display:none">
 
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042722000012?via%3Dihub"><autocolor>Meiqiao Ai, Zhimin Zhang. Pricing some life-contingent lookback options under regime-switching Lévy models. Journal of Computational and Applied Mathematics, 2022, 407: 114082.</autocolor></a></li>
 
