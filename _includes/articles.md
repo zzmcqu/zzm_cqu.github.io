@@ -22,9 +22,9 @@
 
 <li> <a href="javascript:toggle_vis('articlesmore')">Show more</a> </li>
 
-<div id="articlesmore" style="display:inline">
+<div id="articlesmore" style="display:none">
 
-<h4 style="margin:0 10px 0;">2023</h4>
+<h4 id="2023;" style="margin:0 10px 0;">2023</h4>
 <ul>
 <li>Ye Teng, Zhimin Zhang. On a time-changed Lévy risk model with capital injections and periodic observation.<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378475423002938"><autocolor>Mathematics and Computers in Simulation, 2023, 214: 290-314.</autocolor></a></li>
 
@@ -38,8 +38,8 @@
 </ul>
 
 
-<li> <a href="javascript:toggle_vis('articlesmore')">Show more···</a> </li>
-<div id="articlesmore" style="display:none">
+<li> <a href="javascript:toggle_vis('2023more')">Show more···</a> </li>
+<div id="2023more" style="display:none">
 
 <ul>
 <li>Meiqiao Ai, Zhimin Zhang, Wei Zhong. Valuation of a DB underpin hybrid pension under a regime-switching Lévy model. <a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0377042722003715?via%3Dihub"><autocolor>Journal of Computational and Applied Mathematics, 2023, 419: 114736.</autocolor></a></li>
