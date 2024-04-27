@@ -35,10 +35,6 @@
 
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S037704272200512X"><autocolor>Wei Zhong, Zhenyu Cui, Zhimin Zhang. Efficient valuation of guaranteed minimum maturity benefits in regime switching jump diffusion models with surrender risk. Journal of Computational and Applied Mathematics, 2023, 422: 114914.</autocolor></a></li>
 
-<li > <a href="javascript:toggle_vis('2023more')">Show more</a> </li>
-<div id="2023more" style="display:none">
-
-
 <li><a href="https://www-sciencedirect-com-s.atrust.cqu.edu.cn/science/article/pii/S0377042722003715?via%3Dihub"><autocolor>Meiqiao Ai, Zhimin Zhang, Wei Zhong. Valuation of a DB underpin hybrid pension under a regime-switching Lévy model. Journal of Computational and Applied Mathematics, 2023, 419: 114736.</autocolor></a></li>
 
 <li><a href="https://www.researchgate.net/publication/364915397_Tax_optimization_with_a_terminal_value_for_the_Levy_risk_processes"><autocolor>Wenyuan Wang, Zhimin Zhang, Zhuo Jin. TAX OPTIMIZATION WITH A TERMINAL VALUE FOR THE LÉVY RISK PROCESSES. Journal of Industrial and Management Optimization, 2023, 19(8).</autocolor></a></li>
@@ -48,18 +44,19 @@
 <li><a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2022.2144432"><autocolor>Wei Zhong, Dan Zhu, Zhimin Zhang. Valuation of variable annuities under stochastic volatility and stochastic jump intensity. Scandinavian Actuarial Journal, 2023, 2023(7): 708-734.</autocolor></a></li>
 
 <li><a href="https://www-scopus-com-s.atrust.cqu.edu.cn/record/display.uri?eid=2-s2.0-85141317880&origin=resultslist&sort=plf-f&src=s&sid=6ecfc0a5d527a41fa708b45a060a219c&sot=a&sdt=a&s=AU-ID%2835219373500%29+AND+PUBYEAR+IS+2023&sl=38&sessionSearchId=6ecfc0a5d527a41fa708b45a060a219c&relpos=9"><autocolor>Meiqiao Ai, Zhimin Zhang, Wenguang Yu. VALUING EQUITY-LINKED DEATH BENEFITS WITH A THRESHOLD EXPENSE STRUCTURE UNDER A REGIME-SWITCHING LEVY MODEL. Journal of Industrial and Management Optimization, 2023, 19(3).</autocolor></a></li>
-</div></ul>
+</div>
+</ul>
 
 
 
 
-<h4 id="2022;" style="margin:0 10px 0;">2022</h4>
+<h4 style="margin:0 10px 0;">2022</h4>
 
 <ul>
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300322003253?via%3Dihub"><autocolor>Jiayi Xie, Zhenyu Cui, Zhimin Zhang. Some new infinite series expansions for the first passage time densities in a jump diffusion model with phase-type jumps. Applied Mathematics and Computation, 2022, 429: 127251.</autocolor></a></li>
 
-<li> <a href="javascript:toggle_vis('2022more')">Show more</a></li>
-<div id="2022more" style="display:none">
+<li> <a href="javascript:toggle_vis('2023more')">Show more</a></li>
+<div id="2023more" style="display:none">
 
 <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042722000012?via%3Dihub"><autocolor>Meiqiao Ai, Zhimin Zhang. Pricing some life-contingent lookback options under regime-switching Lévy models. Journal of Computational and Applied Mathematics, 2022, 407: 114082.</autocolor></a></li>
 
