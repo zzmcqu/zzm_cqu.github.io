@@ -46,6 +46,6 @@
   <li><autocolor>梅靖伶、谢宸雨(2019.09 - 2021.06)</autocolor></li>
   <li><autocolor>赵翠、陈红(2020.09 - 2022.06)</autocolor></li>
   <li><autocolor>王瑞琴、王孟娇、张瞳(2021.09 - 2023.06)</autocolor></li>
-  <li><autocolor>周春秀、付思琦(2022.09 - 至今)</autocolor></li>
+  <li><autocolor>周春秀、付斯琦(2022.09 - 至今)</autocolor></li>
   <li><autocolor>苏琦、李文月(2023.09 - 至今)</autocolor></li>
 </ul>
