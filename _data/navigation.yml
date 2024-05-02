@@ -7,9 +7,6 @@ main:
   - title: "Students"
     url: ./#students
 
-  - title: "Services"
-    url: ./#services
-
   #- title: "Talks"
   #  url: ./#invited-talks
 
@@ -18,7 +15,10 @@ main:
 
   - title: "Articles"
     url: ./#articles
-
+    
+  - title: "Services"
+    url: ./#services
+    
   - title: "Projects"
     url: ./#projects
 
