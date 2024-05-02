@@ -173,3 +173,65 @@
 
 <li><a href="https://springer.longhoe.net/article/10.1007/s11009-014-9414-7"><autocolor>Zhimin Zhang, Cheung Eric CK. The Markov Additive Risk Process Under an Erlangized Dividend Barrier Strategy. Methodology and Computing in Applied Probability, 2016, 18: 275-306.</autocolor></a></li>
 </ul>
+
+
+<h4 id="2015" style="margin:0 10px 0;">2015</h4>
+<ul>
+<li><a href="https://springer.longhoe.net/article/10.1186/s13662-015-0614-4"><autocolor>Chaolin Liu, Zhimin Zhang. On a discrete risk model with delayed claims and a randomized dividend strategy. Advances in Difference Equations, 2015, 2015: 1-14.</autocolor></a></li>
+
+<li> <a href="javascript:toggle_vis('2015more')">Show more</a></li>
+<div id="2015more" style="display:none">
+
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0377042715001661"><autocolor>Yang Yang, Zhimin Zhang, Tao Jiang, Dongya Cheng. Uniformly asymptotic behavior of ruin probabilities in a time-dependent renewal risk model with stochastic return. Journal of Computational and Applied Mathematics, 2015, 287: 32-43.</autocolor></a></li>
+
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S122631921400088X"><autocolor>Zhimin Zhang, Chaolin Liu. Nonparametric estimation for derivatives of compound distribution. Journal of the Korean Statistical Society, 2015, 44(3): 327-341.</autocolor></a></li>
+
+<li><a href="https://springer.longhoe.net/article/10.1186/s13662-015-0378-x"><autocolor>Chaolin Liu, Zhimin Zhang. On a generalized Gerber-Shiu function in a compound Poisson model perturbed by diffusion. Advances in Difference Equations, 2015, 2015: 1-20.</autocolor></a></li>
+</div>
+</ul>
+
+
+<h4 id="2014" style="margin:0 10px 0;">2014</h4>
+<ul>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1226319214000246"><autocolor>Zhang, Xiu Wu, Hu Yang. On a perturbed sparre andersen risk model with dividend barrier and dependence. Journal of the Korean Statistical Society, 2014, 43(4): 585-598.</autocolor></a></li>
+
+<li> <a href="javascript:toggle_vis('2014more')">Show more</a></li>
+<div id="2014more" style="display:none">
+
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167668714001206"><autocolor>Zhimin Zhang, Hailiang Yang. Nonparametric estimation for the ruin probability in a Lévy risk model under low-frequency observation. Measurement: Journal of the International Measurement Confederation, 2014, 59: 168-177.</autocolor></a></li>
+
+<li><a href="https://openurl.ebsco.com/EPDB%3Agcd%3A12%3A1769980/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A98743693&crl=c"><autocolor>Zhimin Zhang. On a risk model with randomized dividend-decision times. Journal of Industrial and Management Optimization, 2014, 10(4).</autocolor></a></li>
+
+<li><a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2012.691427"><autocolor>Zhimin Zhang, Hailiang Yang, Hu Yang. On a nonparametric estimator for ruin probability in the classical risk model. Scandinavian Actuarial Journal, 2014, 2014(4): 309-338.</autocolor></a></li>
+
+<li><a href="https://www.sciencedirect.com/science/article/pii/S03770427130025621Zhimin"><autocolor>Zhimin Zhang. On a perturbed Sparre Andersen risk model with threshold dividend strategy and dependence. Journal of Computational and Applied Mathematics, 2014, 255: 248-269.</autocolor></a></li>
+</div>
+</ul>
+
+
+<h4 id="2013" style="margin:0 10px 0;">2013</h4>
+<ul>
+<li><a href="https://www.hindawi.com/journals/aaa/2013/759352"><autocolor>Chaolin Liu, Zhimin Zhang. A note on a generalized discounted penalty function in a Sparre Andersen risk model perturbed by diffusion. Abstract and Applied Analysis, Hindawi, 2013, 2013.</autocolor></a></li>
+
+<li> <a href="javascript:toggle_vis('2013more')">Show more</a></li>
+<div id="2013more" style="display:none">
+
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167668713000607"><autocolor>Zhimin Zhang, Hailiang Yang. Nonparametric estimate of the ruin probability in a pure-jump Lévy risk model. Insurance: Mathematics and Economics, 2013, 53(1): 24-35.</autocolor></a></li>
+
+<li><a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2011.599141"><autocolor>Zhimin Zhang, Hailiang Yang, Hu Yang. On a Sparre Andersen risk model perturbed by a spectrally negative Lévy process. Scandinavian Actuarial Journal, 2013, 2013(3): 213-239.</autocolor></a></li>
+</div>
+</ul>
+
+
+<h4 id="2011" style="margin:0 10px 0;">2011</h4>
+<ul>
+<li><a href="https://www.cambridge.org/core/journals/advances-in-applied-probability/article/on-the-absolute-ruin-in-a-map-risk-model-with-debit-interest/89C3818E823D07F65677133BA33AD709"><autocolor>Zhimin Zhang, Hailiang Yang, Hu Yang. On the absolute ruin in a MAP risk model with debit interest. Advances in Applied Probability, 2011, 43(1): 77-96.</autocolor></a></li>
+
+<li> <a href="javascript:toggle_vis('2011more')">Show more</a></li>
+<div id="2011more" style="display:none">
+
+<li><a href="https://springer.longhoe.net/article/10.1007/s11766-011-2279-4"><autocolor>Zhimin Zhang, Hu Yang. The compound Poisson risk model with dependence under a multi-layer dividend strategy. Applied Mathematics, 2011, 26: 1-13.</autocolor></a></li>
+
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0377042710004280"><autocolor>Zhimin Zhang, Hu Yang. Gerber-Shiu analysis in a perturbed risk model with dependence between claim sizes and interclaim times. Journal of Computational and Applied Mathematics, 2011, 235(5): 1189-1204.</autocolor></a></li>
+</div>
+</ul>
