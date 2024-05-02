@@ -223,7 +223,7 @@
 </ul>
 
 
-<h4 id="2012" style="margin:0 10px 0;">2012</h4>
+<h4 style="margin:0 10px 0;">2012</h4>
 <ul>
 <li><a href="https://springer.longhoe.net/article/10.1007/s11009-011-9215-1"><autocolor>Zhimin Zhang, Hailiang Yang, Hu Yang. On a Sparre Andersen risk model with time-dependent claim sizes and jump-diffusion perturbation. Methodology and computing in applied probability, 2012, 14: 973-995.</autocolor></a></li>
 </ul>
