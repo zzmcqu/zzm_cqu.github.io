@@ -1,7 +1,7 @@
 <h1 id="articles"></h1>
 
 <h2 style="margin: 30px 0px 15px;">Articles
-<temp style="font-size:15px;">[</temp><a href="https://www-scopus-com-s.atrust.cqu.edu.cn/authid/detail.uri?authorId=35219373500#" target="_blank" style="font-size:15px;">Scopus</a><temp style="font-size:15px;">]</temp></h2>
+<temp style="font-size:15px;">[</temp><a href="https://www.scopus.com/authid/detail.uri?authorId=35219373500" target="_blank" style="font-size:15px;">Scopus</a><temp style="font-size:15px;">]</temp></h2>
 
 
 <h4 id="2024;" style="margin:15px 10px 10px;">2024</h4>
@@ -223,6 +223,13 @@
 </ul>
 
 
+<h4 id="2012" style="margin:0 10px 0;">2012</h4>
+<ul>
+<li><a href="https://springer.longhoe.net/article/10.1007/s11009-011-9215-1"><autocolor>Zhimin Zhang, Hailiang Yang, Hu Yang. On a Sparre Andersen risk model with time-dependent claim sizes and jump-diffusion perturbation. Methodology and computing in applied probability, 2012, 14: 973-995.</autocolor></a></li>
+</ul>
+
+
+
 <h4 id="2011" style="margin:0 10px 0;">2011</h4>
 <ul>
 <li><a href="https://www.cambridge.org/core/journals/advances-in-applied-probability/article/on-the-absolute-ruin-in-a-map-risk-model-with-debit-interest/89C3818E823D07F65677133BA33AD709"><autocolor>Zhimin Zhang, Hailiang Yang, Hu Yang. On the absolute ruin in a MAP risk model with debit interest. Advances in Applied Probability, 2011, 43(1): 77-96.</autocolor></a></li>
@@ -234,4 +241,48 @@
 
 <li><a href="https://www.sciencedirect.com/science/article/pii/S0377042710004280"><autocolor>Zhimin Zhang, Hu Yang. Gerber-Shiu analysis in a perturbed risk model with dependence between claim sizes and interclaim times. Journal of Computational and Applied Mathematics, 2011, 235(5): 1189-1204.</autocolor></a></li>
 </div>
+</ul>
+
+
+<h4 id="2010" style="margin:0 10px 0;">2010</h4>
+<ul>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1226319209000520"><autocolor>Hu Yang, Zhimin Zhang. When does surplus reach a given target before ruin in the Markov-modulated diffusion model?. Journal of the Korean Statistical Society, 2010, 39(2): 207-219.</autocolor></a></li>
+
+<li> <a href="javascript:toggle_vis('2010more')">Show more</a></li>
+<div id="2010more" style="display:none">
+
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0377042710000609"><autocolor>Hu Yang, Zhimin Zhang. On a discrete risk model with two-sided jumps. Journal of Computational and Applied Mathematics, 2010, 234(3): 835-844.</autocolor></a></li>
+
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0377042709008127"><autocolor>Zhimin Zhang, Hu Yang. On a risk model with stochastic premiums income and dependence between income and loss. Journal of Computational and Applied Mathematics, 2010, 234(1): 44-57.</autocolor></a></li>
+
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0377042709006360"><autocolor>Zhimin Zhang, Hu Yang, Shuanming Li. The perturbed compound Poisson risk model with two-sided jumps. Journal of Computational and Applied Mathematics, 2010, 233(8): 1773-1784.</autocolor></a></li>
+
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S016771520900474X"><autocolor>Zhimin Zhang, Hu Yang. A generalized penalty function in the Sparre-Andersen risk model with two-sided jumps. Statistics and Probability Letters, 2010, 80(7-8): 597-607.</autocolor></a></li>
+</div>
+</ul>
+
+
+<h4 id="2009" style="margin:0 10px 0;">2009</h4>
+<ul>
+<li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/asmb.752"><autocolor>Hu Yang, Zhimin Zhang. On a class of renewal risk model with random income. Applied Stochastic Models in Business and Industry, 2009, 25(6): 678-695.</autocolor></a></li>
+
+<li> <a href="javascript:toggle_vis('2009more')">Show more</a></li>
+<div id="2009more" style="display:none">
+
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0377042709003938"><autocolor>Hu Yang, Zhimin Zhang. On a perturbed Sparre Andersen risk model with multi-layer dividend strategy. Journal of Computational and Applied Mathematics, 2009, 232(2): 612-624.</autocolor></a></li>
+
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0377042709000053"><autocolor>Zhimin Zhang, Shuanming Li, Hu Yang. The Gerber-Shiu discounted penalty functions for a risk model with two classes of claims. Journal of Computational and Applied Mathematics, 2009, 230(2): 643-655.</autocolor></a></li>
+
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167715208003313"><autocolor>Hu Yang, Zhimin Zhang, Chunmei Lan. Ruin problems in a discrete Markov risk model. Statistics and Probability Letters, 2009, 79(1): 21-28.</autocolor></a></li>
+
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167715208003465"><autocolor>Hu Yang, Zhimin Zhang. The perturbed compound Poisson risk model with multi-layer dividend strategy. Statistics and Probability Letters, 2009, 79(1): 70-78.</autocolor></a></li>
+</div>
+</ul>
+
+
+<h4 id="2008" style="margin:0 10px 0;">2008</h4>
+<ul>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167715208000485"><autocolor>Hu Yang, Zhimin Zhang, Chunmei Lan. On the time value of absolute ruin for a multi-layer compound Poisson model under interest force. Statistics & probability letters, 2008, 78(13): 1835-1845.</autocolor></a></li>
+
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167668707001357"><autocolor>Hu Yang, Zhimin Zhang. Gerber–Shiu discounted penalty function in a Sparre Andersen model with multi-layer dividend strategy. Insurance: Mathematics and Economics, 2008, 42(3): 984-991.</autocolor></a></li>
 </ul>
