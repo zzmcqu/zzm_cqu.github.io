@@ -144,25 +144,32 @@
 
 <h4 id="2017;" style="margin:0 10px 0;">2017</h4>
 <ul>
-<li><a href="https://www.cambridge.org/core/journals/advances-in-applied-probability/article/abs/optimal-losscarryforward-taxation-for-levy-risk-processes-stopped-at-general-drawdown-time/941185A6C321DC978BF0D2AF30CC2EBE"><autocolor>Wenyuan Wang, Zhimin Zhang. Optimal loss-carry-forward taxation for Lévy risk processes stopped at general draw-down time. Advances in Applied Probability, 2019, 51(3): 865-897.</autocolor></a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S009630031730509X"><autocolor>Zhimin Zhang, Xiao Han. The compound Poisson risk model under a mixed dividend strategy. Applied Mathematics and Computation, 2017, 315: 1-12.</autocolor></a></li>
 
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0377042719301141"><autocolor>Zhimin Zhang, Yaodi Yong. Valuing guaranteed equity-linked contracts by Laguerre series expansion. Journal of Computational and Applied Mathematics, 2019, 357: 329-348.</autocolor></a></li>
+<li><a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2016.1268541"><autocolor>Zhimin Zhang. Estimating the Gerber–Shiu function by Fourier–Sinc series expansion. Scandinavian Actuarial Journal, 2017, 2017(10): 898-919.</autocolor></a></li>
 
 <li> <a href="javascript:toggle_vis('2017more')">Show more</a> </li>
 <div id="2017more" style="display:none">
 
-<li><a href="https://mdpi.longhoe.net/2227-9091/7/2/37"><autocolor>Shimizu Yasutaka,  Zhimin Zhang. Asymptotically normal estimators of the ruin probability for lévy insurance surplus from discrete samples. Risks, 2019, 7(2): 37.</autocolor></a></li>
+<li><a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2016.1174876"><autocolor>Zhimin Zhang. Nonparametric estimation of the finite time ruin probability in the classical risk model. Scandinavian Actuarial Journal, 2017, 2017(5): 452-469.</autocolor></a></li>
 
-<li><a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2018.1557739"><autocolor>Wenyuan Wang, Zhimin Zhang. Computing the Gerber–Shiu function by frame duality projection. Scandinavian Actuarial Journal, 2019, 2019(4): 291-307.</autocolor></a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167668716304012"><autocolor>Shimizu Yasutaka, Zhimin Zhang. Estimating Gerber–Shiu functions from discretely observed Lévy driven surplus. Insurance: Mathematics and Economics, 2017, 74: 84-98.</autocolor></a></li>
 
-<li><a href="https://openurl.ebsco.com/EPDB%3Agcd%3A14%3A1770398/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A135936277&crl=c"><autocolor>Yang Yang, Kaiyong Wang, Jiajun Liu, Zhimin Zhang. Asymptotics for a bidimensional risk model with two geometric Lévy price processes. Journal of Industrial and Management Optimization, 2019, 15(2).</autocolor></a></li>
+<li><a href="https://openurl.ebsco.com/EPDB%3Agcd%3A1%3A1770209/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A121731205&crl=c"><autocolor>Zhimin Zhang, Yang Yang, Chaolin Liu. On a perturbed compound poisson model with varying premium rates. Journal of Industrial and Management Optimization, 2017, 13(2).</autocolor></a></li>
 
-<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167715218303626"><autocolor>Yang Yang, Wen Su, Zhimin Zhang. Estimating the discounted density of the deficit at ruin by Fourier cosine series expansion. Statistics and Probability Letters, 2019, 146: 147-155.</autocolor></a></li>
+<li><a href="https://springer.longhoe.net/article/10.1007/s11464-016-0609-9"><autocolor>Zhimin Zhang, Chaolin Liu. Moments of discounted dividend payments in a risk model with randomized dividend-decision times. Frontiers of Mathematics in China, 2017, 12: 493-513.</autocolor></a></li>
 
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0022247X18307820"><autocolor>Wen Su, Yong, Yaodi Yong, Zhimin Zhang. Estimating the Gerber–Shiu function in the perturbed compound Poisson model by Laguerre series expansion. Journal of Mathematical Analysis and Applications, 2019, 469(2): 705-729.</autocolor></a></li>
+<li><a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2015.1062042"><autocolor>Zhimin Zhang, Cheung Eric CK, Hailiang Yang. Lévy insurance risk process with Poissonian taxation. Scandinavian Actuarial Journal, 2017, 2017(1): 51-87.</autocolor></a></li>
 
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0377042718304230"><autocolor>Zhimin Zhang, Wen Su. Estimating the Gerber–Shiu function in a Lévy risk model by Laguerre series expansion. Journal of Computational and Applied Mathematics, 2019, 346: 133-149.</autocolor></a></li>
+<li><a href="https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/abs/approximating-the-density-of-the-time-to-ruin-via-fouriercosine-series-expansion/A7FC489A1244AB508FAEEEBB663101F7"><autocolor>Zhimin Zhang. APPROXIMATING the DENSITY of the TIME to RUIN VIA FOURIER-COSINE SERIES EXPANSION. ASTIN Bulletin, 2017, 47(1): 169-198.</autocolor></a></li>
 
-<li><a href="https://www.tandfonline.com/doi/abs/10.1080/03461238.2018.1481454"><autocolor>Cheung Eric CK, Zhimin Zhang. Periodic threshold-type dividend strategy in the compound Poisson risk model. Scandinavian Actuarial Journal, 2019, 2019(1): 1-31.</autocolor></a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0377042716303065"><autocolor>Chaolin Liu, Zhimin Zhang, Hu Yang. A note on a discrete time MAP risk model. Journal of Computational and Applied Mathematics, 2017, 309: 111-121.</autocolor></a></li>
 </div>
+</ul>
+
+<h4 id="2016;" style="margin:0 10px 0;">2016</h4>
+<ul>
+<li><a href="https://springer.longhoe.net/article/10.1007/s10255-016-0601-x"><autocolor>Zhimin Zhang, Hailiang Yang, Hu Yang. On a nonparametric estimator for the finite time survival probability with zero initial surplus. Acta Mathematicae Applicatae Sinica, 2016, 32(3): 739-754.</autocolor></a></li>
+
+<li><a href="https://springer.longhoe.net/article/10.1007/s11009-014-9414-7"><autocolor>Zhimin Zhang, Cheung Eric CK. The Markov Additive Risk Process Under an Erlangized Dividend Barrier Strategy. Methodology and Computing in Applied Probability, 2016, 18: 275-306.</autocolor></a></li>
 </ul>
